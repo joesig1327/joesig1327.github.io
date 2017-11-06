@@ -1,11 +1,11 @@
 #container  {
-  font-family: serif;
+  font-family: Verdana;
   background-color: grey;
 }
   
 h1{
   font-size: 60px;
-  margin-bottom -25px;
+  margin-bottom: -25px;
 }
 
 P{
