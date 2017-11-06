@@ -9,7 +9,11 @@
   padding: 10px 150px 10px 150px;
 }
 
-#hrule  {3px solid brown;
+#content-contact {
+  margin-bottom: 10px;
+}
+
+#hrule  {3px solid black;
 }
 
 h1{
