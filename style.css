@@ -8,7 +8,10 @@
   
   padding: 10px 150px 10px 150px;
 }
-  
+
+#hrule  {2px solid #111B29;
+}
+
 h1{
   font-size: 60px;
   margin-bottom: -25px;
