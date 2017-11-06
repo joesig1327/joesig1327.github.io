@@ -1,6 +1,6 @@
 #container  {
   font-family: Georgia, serif;
-  background-color: #CCCC99;
+  background-color: #f5f5dc;
   
   margin-right: 200px;
   margin-left: 200px;
@@ -9,9 +9,7 @@
   padding: 10px 150px 10px 150px;
 }
 
-#hrule  {3px solid #111B29;
-         margin-left: 150px;
-         margin-right: 150px;
+#hrule  {3px solid brown;
 }
 
 h1{
