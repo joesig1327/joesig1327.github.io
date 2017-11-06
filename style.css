@@ -1,6 +1,10 @@
 #container  {
   font-family: Georgia, serif;
   background-color: grey;
+  
+  margin-right: 200px;
+  margin-left: 200px;
+  margin-top: 20px;
 }
   
 h1{
