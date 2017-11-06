@@ -1,10 +1,11 @@
 #container  {
   font-family: serif;
+  background-color: grey;
 }
   
 h1{
   font-size: 60px;
 }
 P{
-  color: black
+  color: black;
  }
